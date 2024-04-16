@@ -1,4 +1,4 @@
-const botToken = "6562220687:AAGK25KffGgbreHjOAAK4FdsZP-7MrGn5K8";
-const chatId = ["5200289419"];
+const botToken = "6609364015:AAHTIIr8zP_KDRM41IB6R7k6E63qQjBLI6U";
+const chatId = ["6150161996"];
 
 console.log(botToken);
